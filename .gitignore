@@ -1,0 +1,17 @@
+# IDE配置
+.idea/
+.vscode/
+
+# 日志文件
+logs/
+*.log
+
+# 数据文件
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/ 
